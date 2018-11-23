@@ -7,6 +7,7 @@
 ### Tecnologias
 Requer [PHP] versão 7.2 ou superior
 * [Laravel] - Framework PHP
+* [Eloquent] - ORM
 * [MySQL] - Base de dados Sequel
 
 ### Instalação
@@ -62,3 +63,4 @@ $ php artisan route:list
 [Eloquent]: <https://laravel.com/docs/5.7/eloquent>
 [MySQL]: <https://www.mysql.com/>
 [Laravel]: <https://laravel.com/>
+[Eloquent]: <https://laravel.com/docs/5.7/eloquent>
