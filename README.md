@@ -49,7 +49,7 @@ Execute caso não esteja rodando o projeto em um servidor [Apache] ou [Nginx]
 ```sh
 $ php artisan serve
 ```
-Rode ara ver as endpoints disponíveis
+Rode para ver as endpoints disponíveis
 ```sh
 $ php artisan route:list
 ```
